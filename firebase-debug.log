@@ -1,36 +1,13 @@
-[debug] [2024-12-12T01:08:54.661Z] ----------------------------------------------------------------------
-[debug] [2024-12-12T01:08:54.663Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Bingus\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js
-[debug] [2024-12-12T01:08:54.663Z] CLI Version:   13.27.0
-[debug] [2024-12-12T01:08:54.663Z] Platform:      win32
-[debug] [2024-12-12T01:08:54.663Z] Node Version:  v22.11.0
-[debug] [2024-12-12T01:08:54.663Z] Time:          Thu Dec 12 2024 09:08:54 GMT+0800 (Philippine Standard Time)
-[debug] [2024-12-12T01:08:54.663Z] ----------------------------------------------------------------------
+[debug] [2024-12-12T01:34:52.495Z] ----------------------------------------------------------------------
+[debug] [2024-12-12T01:34:52.497Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Bingus\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-12-12T01:34:52.497Z] CLI Version:   13.27.0
+[debug] [2024-12-12T01:34:52.498Z] Platform:      win32
+[debug] [2024-12-12T01:34:52.498Z] Node Version:  v22.11.0
+[debug] [2024-12-12T01:34:52.498Z] Time:          Thu Dec 12 2024 09:34:52 GMT+0800 (Philippine Standard Time)
+[debug] [2024-12-12T01:34:52.498Z] ----------------------------------------------------------------------
 [debug] 
-[debug] [2024-12-12T01:08:54.666Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
-[debug] [2024-12-12T01:08:54.695Z] TypeError: Cannot read properties of undefined (reading '0')
-    at Command.<anonymous> (C:\Users\Bingus\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:58:21)
-    at Command.listener [as _actionHandler] (C:\Users\Bingus\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:413:31)
-    at Command._parseCommand (C:\Users\Bingus\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:914:14)
-    at Command.parse (C:\Users\Bingus\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:717:10)
-    at Object.<anonymous> (C:\Users\Bingus\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:129:22)
-    at Module._compile (node:internal/modules/cjs/loader:1546:14)
-    at Object..js (node:internal/modules/cjs/loader:1689:10)
-    at Module.load (node:internal/modules/cjs/loader:1318:32)
-    at Function._load (node:internal/modules/cjs/loader:1128:12)
-    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
-[error] 
-[error] Error: An unexpected error has occurred.
-[debug] [2024-12-12T01:09:25.865Z] ----------------------------------------------------------------------
-[debug] [2024-12-12T01:09:25.867Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Bingus\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
-[debug] [2024-12-12T01:09:25.867Z] CLI Version:   13.27.0
-[debug] [2024-12-12T01:09:25.868Z] Platform:      win32
-[debug] [2024-12-12T01:09:25.868Z] Node Version:  v22.11.0
-[debug] [2024-12-12T01:09:25.868Z] Time:          Thu Dec 12 2024 09:09:25 GMT+0800 (Philippine Standard Time)
-[debug] [2024-12-12T01:09:25.868Z] ----------------------------------------------------------------------
-[debug] 
-[debug] [2024-12-12T01:09:25.870Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
-[debug] [2024-12-12T01:09:26.027Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
-[debug] [2024-12-12T01:09:26.028Z] > authorizing via signed-in user (martialark123@gmail.com)
+[debug] [2024-12-12T01:34:52.565Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-12-12T01:34:52.565Z] > authorizing via signed-in user (martialark123@gmail.com)
 [info] 
      ######## #### ########  ######## ########     ###     ######  ########
      ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
@@ -46,5 +23,57 @@ Before we get started, keep in mind:
 
   * You are initializing within an existing Firebase project directory
 
-[debug] [2024-12-12T01:09:26.472Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
-[debug] [2024-12-12T01:09:26.472Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2024-12-12T01:34:58.126Z] Using project from CLI flag: listo-dev-18c26
+[debug] [2024-12-12T01:34:58.127Z] Checked if tokens are valid: false, expires at: 1733795198749
+[debug] [2024-12-12T01:34:58.127Z] Checked if tokens are valid: false, expires at: 1733795198749
+[debug] [2024-12-12T01:34:58.127Z] > refreshing access token with scopes: []
+[debug] [2024-12-12T01:34:58.132Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2024-12-12T01:34:58.132Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2024-12-12T01:34:58.304Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2024-12-12T01:34:58.304Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2024-12-12T01:34:58.315Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/listo-dev-18c26 [none]
+[debug] [2024-12-12T01:34:58.622Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/listo-dev-18c26 200
+[debug] [2024-12-12T01:34:58.623Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/listo-dev-18c26 {"projectId":"listo-dev-18c26","projectNumber":"1019470933970","displayName":"LISTO-dev","name":"projects/listo-dev-18c26","resources":{"hostingSite":"listo-dev-18c26"},"state":"ACTIVE","etag":"1_29ea91e6-6333-4a28-8ceb-89404106a8ac"}
+[info] i  Using project listo-dev-18c26 (LISTO-dev) 
+[info] 
+=== Hosting Setup
+[debug] [2024-12-12T01:34:58.637Z] Checked if tokens are valid: true, expires at: 1733970897305
+[debug] [2024-12-12T01:34:58.637Z] Checked if tokens are valid: true, expires at: 1733970897305
+[debug] [2024-12-12T01:34:58.638Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/listo-dev-18c26 [none]
+[debug] [2024-12-12T01:34:58.895Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/listo-dev-18c26 200
+[debug] [2024-12-12T01:34:58.896Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/listo-dev-18c26 {"projectId":"listo-dev-18c26","projectNumber":"1019470933970","displayName":"LISTO-dev","name":"projects/listo-dev-18c26","resources":{"hostingSite":"listo-dev-18c26"},"state":"ACTIVE","etag":"1_29ea91e6-6333-4a28-8ceb-89404106a8ac"}
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[info] +  Wrote dist/404.html 
+[debug] [2024-12-12T01:35:17.919Z] >>> [apiv2][query] GET https://www.gstatic.com/firebasejs/releases.json [none]
+[debug] [2024-12-12T01:35:18.028Z] <<< [apiv2][status] GET https://www.gstatic.com/firebasejs/releases.json 200
+[debug] [2024-12-12T01:35:18.029Z] <<< [apiv2][body] GET https://www.gstatic.com/firebasejs/releases.json {"current":{"version":"11.0.2","browserURL":"https://www.gstatic.com/firebasejs/11.0.2/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/11.0.2/firebase.tgz"},"live":{"version":"11.0","browserURL":"https://www.gstatic.com/firebasejs/live/11.0/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/live/11.0/firebase.tgz"},"components":{"analytics":"https://www.gstatic.com/firebasejs/11.0.2/firebase-analytics.js","app":"https://www.gstatic.com/firebasejs/11.0.2/firebase-app.js","app-check":"https://www.gstatic.com/firebasejs/11.0.2/firebase-app-check.js","auth":"https://www.gstatic.com/firebasejs/11.0.2/firebase-auth.js","auth/cordova":"https://www.gstatic.com/firebasejs/11.0.2/firebase-auth/cordova.js","auth/web-extension":"https://www.gstatic.com/firebasejs/11.0.2/firebase-auth/web-extension.js","functions":"https://www.gstatic.com/firebasejs/11.0.2/firebase-functions.js","firestore":"https://www.gstatic.com/firebasejs/11.0.2/firebase-firestore.js","firestore/lite":"https://www.gstatic.com/firebasejs/11.0.2/firebase-firestore/lite.js","installations":"https://www.gstatic.com/firebasejs/11.0.2/firebase-installations.js","storage":"https://www.gstatic.com/firebasejs/11.0.2/firebase-storage.js","performance":"https://www.gstatic.com/firebasejs/11.0.2/firebase-performance.js","remote-config":"https://www.gstatic.com/firebasejs/11.0.2/firebase-remote-config.js","messaging":"https://www.gstatic.com/firebasejs/11.0.2/firebase-messaging.js","messaging/sw":"https://www.gstatic.com/firebasejs/11.0.2/firebase-messaging/sw.js","database":"https://www.gstatic.com/firebasejs/11.0.2/firebase-database.js","vertexai":"https://www.gstatic.com/firebasejs/11.0.2/firebase-vertexai.js","data-connect":"https://www.gstatic.com/firebasejs/11.0.2/firebase-data-connect.js","firestore.memory":"https://www.gstatic.com/firebasejs/11.0.2/firebase-firestore.memory.js"}}
+[info] i  Skipping write of dist/index.html 
+[info] 
+[info] i  Detected a .git folder at C:\Users\Bingus\Node Projects\React Native\LISTO-FINALBOSS 
+[info] i  Authorizing with GitHub to upload your service account to a GitHub repository's secrets store. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://github.com/login/oauth/authorize?client_id=89cf50f02ac6aaed3484&state=785708040&redirect_uri=http%3A%2F%2Flocalhost%3A9005&scope=read%3Auser%20repo%20public_repo
+[info] 
+[info] Waiting for authentication...
+[debug] [2024-12-12T01:36:15.244Z] >>> [apiv2][query] POST https://github.com/login/oauth/access_token [none]
+[debug] [2024-12-12T01:36:15.245Z] >>> [apiv2][body] POST https://github.com/login/oauth/access_token [stream]
+[debug] [2024-12-12T01:36:15.779Z] <<< [apiv2][status] POST https://github.com/login/oauth/access_token 200
+[debug] [2024-12-12T01:36:15.779Z] <<< [apiv2][body] POST https://github.com/login/oauth/access_token {"access_token":"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","token_type":"bearer","scope":"read:user,repo"}
+[debug] [2024-12-12T01:36:15.788Z] >>> [apiv2][query] GET https://api.github.com/user [none]
+[debug] [2024-12-12T01:36:16.330Z] <<< [apiv2][status] GET https://api.github.com/user 200
+[debug] [2024-12-12T01:36:16.330Z] <<< [apiv2][body] GET https://api.github.com/user {"login":"Nyraea","id":82209986,"node_id":"MDQ6VXNlcjgyMjA5OTg2","avatar_url":"https://avatars.githubusercontent.com/u/82209986?v=4","gravatar_id":"","url":"https://api.github.com/users/Nyraea","html_url":"https://github.com/Nyraea","followers_url":"https://api.github.com/users/Nyraea/followers","following_url":"https://api.github.com/users/Nyraea/following{/other_user}","gists_url":"https://api.github.com/users/Nyraea/gists{/gist_id}","starred_url":"https://api.github.com/users/Nyraea/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/Nyraea/subscriptions","organizations_url":"https://api.github.com/users/Nyraea/orgs","repos_url":"https://api.github.com/users/Nyraea/repos","events_url":"https://api.github.com/users/Nyraea/events{/privacy}","received_events_url":"https://api.github.com/users/Nyraea/received_events","type":"User","user_view_type":"private","site_admin":false,"name":"Mark Jearald Agraviador","company":null,"blog":"","location":null,"email":"mark.agraviador.cics@ust.edu.ph","hireable":null,"bio":null,"twitter_username":null,"notification_email":"mark.agraviador.cics@ust.edu.ph","public_repos":20,"public_gists":0,"followers":1,"following":2,"created_at":"2021-04-09T09:30:04Z","updated_at":"2024-12-10T08:08:25Z","private_gists":0,"total_private_repos":5,"owned_private_repos":5,"disk_usage":281865,"collaborators":0,"two_factor_authentication":true,"plan":{"name":"pro","space":976562499,"collaborators":0,"private_repos":9999}}
+[info] 
+[info] +  Success! Logged into GitHub as Nyraea 
+[info] 
