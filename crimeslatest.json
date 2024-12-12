@@ -1,0 +1,317 @@
+{
+  "doc20": {
+    "date": "2/21/2020",
+    "time": "9:22 pm",
+    "category": "injury",
+    "additionalInfo": "INIREPORT SA PULIS AT PATULOY NA INIIMBESTIGAHAN ANG INSIDENTE",
+    "location": "18 Holy Spirit Dr, Quezon City"
+  },
+  "doc21": {
+    "date": "3/17/2022",
+    "time": "9:45 pm",
+    "category": "murder",
+    "additionalInfo": "BINARIL ANG BIKTIMA AT WALA NA ITONG BUHAY KASALUKUYAN PINAGHAHANAP ANG SUSPEK",
+    "location": "LRB BLDG 5, St Joseph St, Quezon City"
+  },
+  "doc22": {
+    "date": "06/22/2022",
+    "time": "11:03 pm",
+    "category": "injury",
+    "additionalInfo": "TINATRACK NG MGA PULIS SA CAMERA ANG MGA DINAANAN NG SUSPEK PARA MATUNTON ITO",
+    "location": "142 area 7 b nawasa line, Quezon City"
+  },
+  "doc23": {
+    "date": "07/14/2022",
+    "time": "8:58 pm",
+    "category": "injury",
+    "additionalInfo": "NAKUHA SA SUSPEK ANG GAMIT NA KUTSILYO AT AGAD ITONG DINALA SA ESTASYON NG PULIS",
+    "location": "REPUBLIC AVE, Quezon City"
+  },
+  "doc24": {
+    "date": "07/22/2022",
+    "time": "9:12 am",
+    "category": "homicide",
+    "additionalInfo": "NAKITA SA CREEK ANG INABANDONANG BABY AT WALA NA ITONG BUHAY",
+    "location": "1127 Sto. Niño, Quezon City"
+  },
+  "doc25": {
+    "date": "08/06/2022",
+    "time": "4:40 pm",
+    "category": "robbery",
+    "additionalInfo": "AYON SA PULIS IIMBESTIGAHAN NILA ANG INSIDENTE UPANG MATUNTON ANG MGA SNATCHER",
+    "location": "142 area 7 b nawasa line, Quezon City"
+  },
+  "doc26": {
+    "date": "8/17/2022",
+    "time": "11:50 am",
+    "category": "rape",
+    "additionalInfo": "AGAD NA NATUNTON SA BARANGAY PASONG TAMO ANG SUSPEK",
+    "location": "Capas Rd, Quezon City"
+  },
+  "doc27": {
+    "date": "09/03/2022",
+    "time": "1:30 pm",
+    "category": "theft",
+    "additionalInfo": "NAKITA SA CAMERA ANG PAGNANAKAW NG LOPTOP AT AGAD NAMAN ITONG NAHULI",
+    "location": "Cirilo, Quezon City"
+  },
+  "doc28": {
+    "date": "9/22/2022",
+    "time": "6:24 pm",
+    "category": "injury",
+    "additionalInfo": "NATUNTON NG PULIS ANG LALAKING NAKABANGGA NG BATA",
+    "location": "REPUBLIC AVE, Quezon City"
+  },
+  "doc29": {
+    "date": "11/11/2022",
+    "time": "11:02 am",
+    "category": "theft",
+    "additionalInfo": "NAHULI ANG MAGNANAKAW AT DALA-DALA NITO ANG MGA GAMIT NA NINAKAW",
+    "location": "MILITARY ROAD, Quezon City"
+  },
+  "doc30": {
+    "date": "11/26/2022",
+    "time": "9:10 am",
+    "category": "robbery",
+    "additionalInfo": "NAKATAKAS ANG SUSPEK KAYA'T ITONG TINATRACK NG MGA PULIS GAMIT ANG MGA CCTV CAMERA",
+    "location": "13 Holy Spirit Drive, Quezon City"
+  },
+  "doc31": {
+    "date": "12/01/2022",
+    "time": "8:53 am",
+    "category": "theft",
+    "additionalInfo": "NAHULI ANG MGA KAWATAN AT NABAWI ANG MGA NINAKAW NITONG MGA GADGETS",
+    "location": "Commonwealth Ave & Samonte St, Quezon City"
+  },
+  "doc32": {
+    "date": "02/03/2023",
+    "time": "2:00 am",
+    "category": "theft",
+    "additionalInfo": "MAY NAHULING MAGNANAKAW ANG MGA RESIDENTE NG NASABING LUGAR",
+    "location": "Area 7 nawasa line holy spirit quezon city"
+  },
+  "doc33": {
+    "date": "4/18/2023",
+    "time": "10:21 am",
+    "category": "homicide",
+    "additionalInfo": "LALAKING NAG BIGTI",
+    "location": "SAN ROQUE ST., Quezon City"
+  },
+  "doc34": {
+    "date": "4/25/2023",
+    "time": "8:53 pm",
+    "category": "injury",
+    "additionalInfo": "LALAKING NANAKSAK SA ISKINITA",
+    "location": "San Roque St, Quezon City"
+  },
+  "doc35": {
+    "date": "4/28/2023",
+    "time": "8:10 am",
+    "category": "theft",
+    "additionalInfo": "NAHULI NG MGA RESIDENTE ANG MAGNANAKAW TINURN OVER ITO SA PULIS",
+    "location": "MARCELINO ST., Quezon City"
+  },
+  "doc36": {
+    "date": "06/02/2023",
+    "time": "9:50 pm",
+    "category": "injury",
+    "additionalInfo": "MAGKAPATID NAGSAKSAKAN",
+    "location": "8 Sto. Niño, Quezon City"
+  },
+  "doc37": {
+    "date": "7/15/2023",
+    "time": "8:01 pm",
+    "category": "theft",
+    "additionalInfo": "NAHULI ANG SUSPEK KASAMA NITO ANG BIKE NA NINAKAW",
+    "location": "5-6 Doña Isidora, Quezon City, Metro Manila"
+  },
+  "doc38": {
+    "date": "8/19/2023",
+    "time": "9:40 pm",
+    "category": "robbery",
+    "additionalInfo": "BIGLANG TINUTUKAN NG BARIL ANG DALAWANG BABAE AT KINUHA ANG MGA CELLPHONE",
+    "location": "14 Faustino, Quezon City"
+  },
+  "doc39": {
+    "date": "09/05/2023",
+    "time": "8:15 pm",
+    "category": "carnapping",
+    "additionalInfo": "INAGAWAN NG MOTORSIKLO",
+    "location": "Artillery Road, Quezon City"
+  },
+  "doc40": {
+    "date": "09/07/2023",
+    "time": "11:19 am",
+    "category": "robbery",
+    "additionalInfo": "TINUTUKAN NG KUTSILYO ANG KINUHA ANG MGA PERA NITO",
+    "location": "Capas Rd, Quezon City"
+  },
+  "doc41": {
+    "date": "9/13/2023",
+    "time": "2:53 pm",
+    "category": "injury",
+    "additionalInfo": "NASAGI NA MATANDA AT HINDI ITO HININTUAN",
+    "location": "M3PG+MJJ, Republic Avenue, Quezon City"
+  },
+  "doc42": {
+    "date": "9/25/2023",
+    "time": "9:11 am",
+    "category": "theft",
+    "additionalInfo": "STOLEN BIKE",
+    "location": "Samonte St, Quezon City"
+  },
+  "doc43": {
+    "date": "10/17/2023",
+    "time": "5:37 pm",
+    "category": "injury",
+    "additionalInfo": "TINAKBUHAN ANG NABANGGA NITONG TAO",
+    "location": "De Leon St, Quezon City"
+  },
+  "doc44": {
+    "date": "12/30/2023",
+    "time": "7:25 am",
+    "category": "homicide",
+    "additionalInfo": "NATAGPUAN WALA NANG BUHAY ANG BIKTIMA",
+    "location": "USAFFE Rd & Marine Rd, Quezon City"
+  },
+  "doc45": {
+    "date": "1/23/2024",
+    "time": "10:23 am",
+    "category": "theft",
+    "additionalInfo": "PINASOK ANG LBC",
+    "location": "HOLY SPIRIT DRIVE"
+  },
+  "doc46": {
+    "date": "1/23/2024",
+    "time": "3:29 pm",
+    "category": "theft",
+    "additionalInfo": "NAGNAKAW NG MOTOR",
+    "location": "21 General Rd, Quezon City"
+  },
+  "doc47": {
+    "date": "1/30/2024",
+    "time": "8:50 pm",
+    "category": "theft",
+    "additionalInfo": "SI LARRY NA MAG NANAKAW NAHULI NA",
+    "location": "MARCELINO, Quezon City"
+  },
+  "doc48": {
+    "date": "2/20/2024",
+    "time": "2:03 pm",
+    "category": "theft",
+    "additionalInfo": "NAHOLD NG MISMONG MGA GWARDYA NG ONE FELICITY BLDG",
+    "location": "AFNI BLDG Commonwealth Avenue, Quezon City"
+  },
+  "doc49": {
+    "date": "02/09/2024",
+    "time": "12:50 am",
+    "category": "theft",
+    "additionalInfo": "NAGNAKAW NG WIRE",
+    "location": "DON FAUSTINO, QUEZON CITY"
+  },
+  "doc50": {
+    "date": "3/16/2024",
+    "time": "7:04 pm",
+    "category": "robbery",
+    "additionalInfo": "ROBBERY IN EXPRESS LANE MINIMART",
+    "location": "5-6 Doña Isidora, Quezon City, Metro Manila"
+  },
+  "doc51": {
+    "date": "04/06/2024",
+    "time": "8:31 am",
+    "category": "theft",
+    "additionalInfo": "MAY NAHULING MAGNANAKAW",
+    "location": "63 Commodore Rd, Quzon City"
+  },
+  "doc52": {
+    "date": "06/01/2024",
+    "time": "12:22 am",
+    "category": "theft",
+    "additionalInfo": "NAGNAKAW NG CELLPHONE",
+    "location": "Don Antonio Dr, Diliman, Quezon City"
+  },
+  "doc53": {
+    "date": "07/07/2024",
+    "time": "1:03 am",
+    "category": "injury",
+    "additionalInfo": "MAG ASAWA ANG NASAKSAK",
+    "location": "Area 6 Luzon Ave, Quezon City"
+  },
+  "doc54": {
+    "date": "07/07/2024",
+    "time": "1:00 pm",
+    "category": "theft",
+    "additionalInfo": "AKYAT BAHAY",
+    "location": "Republic Ave & Saint Anthony Street, Quezon City"
+  },
+  "doc55": {
+    "date": "07/10/2024",
+    "time": "2:14 pm",
+    "category": "theft",
+    "additionalInfo": "NA HULING MAG NANAKAW AT  NA HOLD TAONG BAYAN",
+    "location": "SAMONTE ST, Quezon City"
+  },
+  "doc56": {
+    "date": "07/10/2024",
+    "time": "3:02 pm",
+    "category": "theft",
+    "additionalInfo": "NAHULI SA CAMERA NA NAG NAKAW NG CELLPHONE",
+    "location": "Samonte St, Quezon City"
+  },
+  "doc57": {
+    "date": "7/20/2024",
+    "time": "10:44 pm",
+    "category": "theft",
+    "additionalInfo": "NAG NAKAW NG EXTENTION WIRE",
+    "location": "COMMODORE ST., Quezon City"
+  },
+  "doc58": {
+    "date": "08/03/2024",
+    "time": "5:17 pm",
+    "category": "injury",
+    "additionalInfo": "NASAKSAK SA KAMAY",
+    "location": "Military Rd & Leyte Gulf St, Quezon City"
+  },
+  "doc59": {
+    "date": "8/16/2024",
+    "time": "10:07 am",
+    "category": "roberry",
+    "additionalInfo": "NAKA PULANG SINGLE MOTOR",
+    "location": "5-6 Doña Isidora, Quezon City, Metro Manila"
+  },
+  "doc60": {
+    "date": "8/17/2024",
+    "time": "10:39 pm",
+    "category": "theft",
+    "additionalInfo": "PINUTOL ANG KABLE NG KURYENTE NANG SKYCABLE",
+    "location": "De Leon & Cirilo, Quezon City"
+  },
+  "doc61": {
+    "date": "8/24/2024",
+    "time": "10:09 am",
+    "category": "injury",
+    "additionalInfo": "4WHEELS NAKABUNGGO NG BATA AT TINAKBUHAN",
+    "location": "Holy Spirit Dr & Sampaguita Ave, Quezon City"
+  },
+  "doc62": {
+    "date": "09/01/2024",
+    "time": "12:11 am",
+    "category": "injury",
+    "additionalInfo": "STABBING INCIDENT",
+    "location": "JASMIN ST., Quezon City"
+  },
+  "doc63": {
+    "date": "09/07/2024",
+    "time": "9:22 am",
+    "category": "theft",
+    "additionalInfo": "NAHULING SHOPLIFTER",
+    "location": "24 De Leon, Quezon City"
+  },
+  "doc64": {
+    "date": "09/10/2024",
+    "time": "4:26 am",
+    "category": "theft",
+    "additionalInfo": "NILOBAN ANG BAHAY",
+    "location": "St Vincent St, Quezon City"
+  }
+}

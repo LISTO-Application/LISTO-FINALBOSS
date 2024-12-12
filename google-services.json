@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019470933970",
+    "project_id": "listo-dev-18c26",
+    "storage_bucket": "listo-dev-18c26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019470933970:android:2ef6f747ad244c2607a20b",
+        "android_client_info": {
+          "package_name": "com.pingusbingus.LISTOdev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBUUog07TQDD2Ac_6do-ZaoNcU4lvTQWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

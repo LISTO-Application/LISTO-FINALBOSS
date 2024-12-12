@@ -1,0 +1,135 @@
+{
+  "doc1": {
+    "date": "02/10/2021",
+    "time": "2:09 am",
+    "category": "theft",
+    "additionalInfo": "NAKITA SA CCTV ANG MAGNANAKAW AT HINAHANAP NA NG MGA PULIS AT BSDO",
+    "location": "SAMONTE ST, QUEZON CITY"
+  },
+  "doc2": {
+    "date": "2/13/2021",
+    "time": "12:08 pm",
+    "category": "injury",
+    "additionalInfo": "NAHULI ANG SUSPEK NA NANAKSAK AT DINALA NAMAN SA HOSPITAL ANG BIKTIMA",
+    "location": "Nawasa Line, Brgy. Holy Spirit"
+  },
+  "doc3": {
+    "date": "03/03/2021",
+    "time": "11:55 am",
+    "category": "injury",
+    "additionalInfo": "NADAKIP NG MGA BPSO NG BRAVO ANG NASABING SUSPECT AT ITO AY KASALUKUYAN NAKA HOLD SA KANILA AT ITUTURN OVER SA PULIS",
+    "location": "ST.VINCENT ST Quezon City"
+  },
+  "doc4": {
+    "date": "03/03/2021",
+    "time": "9:38 pm",
+    "category": "injury",
+    "additionalInfo": "NASA KAMAY NA NG MGA PULIS ANG SUSPEK SA KRIMEN",
+    "location": "REPUBLIC AVENUE QUEZON CITY"
+  },
+  "doc5": {
+    "date": "03/04/2021",
+    "time": "10:31 pm",
+    "category": "injury",
+    "additionalInfo": "KASALUKUYAN PINAGHAHANAP NG MGA BPSO AT PULIS ANG SUSPEK SAPAGKAT WALA NA ITO SA KANYANG BAHAY NG PUNTAHAN ITO",
+    "location": "4 Area 5 Quezon City"
+  },
+  "doc6": {
+    "date": "03/07/2021",
+    "time": "8:25 pm",
+    "category": "carnapping",
+    "additionalInfo": "NINAKAW ANG MOTOR, KUHA SA CCTV ANG PAGNANAKAW",
+    "location": "HOLY SPIRIT DRIVE"
+  },
+  "doc7": {
+    "date": "06/07/2021",
+    "time": "3:00 pm",
+    "category": "rape",
+    "additionalInfo": "KASALUKUYAN HINAHANAP ANG SUSPEK SA KADAHILANAN MABILIS ITONG NAKATAKAS",
+    "location": "REPUBLIC AVENUE QUEZON CITY"
+  },
+  "doc8": {
+    "date": "06/07/2021",
+    "time": "5:38 pm",
+    "category": "theft",
+    "additionalInfo": "NAKITA SA CAMERA ANG PAGNANAKAW AT AGAD NAMAN ITONG NAHULI",
+    "location": "FAUSTINO STREET, Holy Spirit Drive"
+  },
+  "doc9": {
+    "date": "6/20/2021",
+    "time": "12:24 am",
+    "category": "homicide",
+    "additionalInfo": "RINESPONDEHAN NG BPSO AT NG ATING MGA KAPULISAN ANG NANGYARENG INSIDENTE AT INAANTAY DUMATING ANG IMBESTIGADOR",
+    "location": "KALIGTASAN ST."
+  },
+  "doc10": {
+    "date": "6/24/2021",
+    "time": "1:30 pm",
+    "category": "theft",
+    "additionalInfo": "MAY CONCERN NA NAGREPORT NA PINASOK SILA NG MAGNANAKAW AT NAWALAN NG MGA MAHAHALAGANG GAMIT",
+    "location": "24 DE LEON ST., QUEZON CITY"
+  },
+  "doc11": {
+    "date": "6/24/2021",
+    "time": "12:20 pm",
+    "category": "theft",
+    "additionalInfo": "NAKITA SA CAMERA ANG SUSPEK AT AGAD NAMAN ITONG INIMBESTIGAHAN NG PULIS",
+    "location": "PARALUMAN ST., QUEZON CITY"
+  },
+  "doc12": {
+    "date": "7/22/2021",
+    "time": "11:38 am",
+    "category": "theft",
+    "additionalInfo": "AYON SA BIKTIMA AGAD ITONG NAGDALI-DALING TUMAKBO",
+    "location": "12 DE LEON ST., QUEZON CITY"
+  },
+  "doc13": {
+    "date": "9/30/2021",
+    "time": "10:29 pm",
+    "category": "injury",
+    "additionalInfo": "NAHULI ANG SUSPEK AT DINALA NAMAN SA HOSPITAL ANG TATLONG BIKTIMA",
+    "location": "84 SAINT CATHERINE ST. QUEZON CITY"
+  },
+  "doc14": {
+    "date": "10/09/2021",
+    "time": "10:33 pm",
+    "category": "rape",
+    "additionalInfo": "AYON SA BPSO LASING ANG BABAENG GINAHASA AT NAHULI NAMAN ANG SUSPEK",
+    "location": "BESANG PASS ROAD, QUEZON CITY"
+  },
+  "doc15": {
+    "date": "10/22/2021",
+    "time": "3:31 pm",
+    "category": "theft",
+    "additionalInfo": "AYON SA BIKTIMA HINDI NYA ALAM KUNG BAKIT NYA INIABOT ANG WALLET NYA HABANG KINAKAUSAP SYA NG SUSPEK",
+    "location": "HOLY SPIRIT DRIVE"
+  },
+  "doc16": {
+    "date": "11/13/2021",
+    "time": "9:10 pm",
+    "category": "rape",
+    "additionalInfo": "AGAD NAMAN NAHULI ANG SUSPEK AT PANSAMANTALA ITONG KINULONG HABANG INAANTAY ANG MGA KAPULISAN",
+    "location": "206 San Simon Quezon City"
+  },
+  "doc17": {
+    "date": "11/17/2021",
+    "time": "5:12 am",
+    "category": "injury",
+    "additionalInfo": "AGAD NAMAN NADAMPOT NG MGA KAPULISAN ANG LALAKING NANAKSAK",
+    "location": "22 Santo Rosario Street Quezon City"
+  },
+  "doc18": {
+    "date": "11/26/2021",
+    "time": "9:00 pm",
+    "category": "carnapping",
+    "additionalInfo": "AGAD NAMAN ITONG INIREPORT SA PULIS AT TINATRACK ANG POSIBLE NA DINAANAN NG SUSPEK",
+    "location": "HOLY SPIRIT DRIVE"
+  },
+  "doc19": {
+    "date": "12/02/2021",
+    "time": "9:01 am",
+    "category": "robbery",
+    "additionalInfo": "INIREPORT AGAD ITO SA PULIS AT IIMBESTIGAHAN AGAD ANG NANGYARING INSIDENTE",
+    "location": "SAINT ANDREW ST., QUEZON CITY"
+  }
+}
